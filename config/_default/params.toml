@@ -32,7 +32,7 @@ highlight = true
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
-math = false
+math = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -121,7 +121,7 @@ comment_count = true
 section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]
@@ -139,9 +139,9 @@ sharing = true
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = false
+  publication_view = false
+  talk_view = false
 
 # Search.
 [search]
