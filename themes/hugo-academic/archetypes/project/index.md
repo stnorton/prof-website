@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
+date = 2019-07-05
 draft = false
 
 # Tags: can be used for filtering projects.

@@ -1,6 +1,6 @@
 +++
 title = "Demolition and Discontent in Moscow"
-date = ""
+date = "2019-05-07"
 draft = false
 
 # Tags: can be used for filtering projects.

@@ -1,6 +1,6 @@
 +++
 title = "Decentralizing States, Decentralizing Protest"
-date = ""
+date = "2019-05-07"
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -44,7 +44,7 @@ url_poster = ""
   focal_point = "Smart"
 +++
 
-*(with Kaitlin Alpers)*
+*(with Kaitlin Alper)*
 
 The history of European democratization is one of centralization, both of the state itself
 and the groups that contest it. As Europe centralized and democratized, practicioners of contentious politics 

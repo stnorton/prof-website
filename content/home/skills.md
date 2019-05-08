@@ -39,6 +39,12 @@ subtitle = ""
   description = "Focus on Bayesian Semi-Parametrics"
 
 [[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git and Github"
+  description = ""
+
+[[feature]]
   icon = "globe-asia"
   icon_pack = "fas"
   name = "Russian"
