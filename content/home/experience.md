@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Chapel Hill, NC"
   date_start = "2018-06-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """Verify that articles accepted to the American Journal of Political Science
   and State Politics and Policy Quarterly are replicable."""
   
@@ -50,6 +50,15 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """Analayzed survey data, including the use of topic models, to support
   data science iniatives at UNC."""
+  
+[[experience]]
+  title = "Support Specialist"
+  company = "UNC Research Computing"
+  company_url = ""
+  location = "Chapel Hill, NC"
+  date_start = "2019-07-15"
+  date_end = ""
+  description = """Provide technical support to users of UNC's HPC clusters and other research computing resources."""
   
 
 +++
