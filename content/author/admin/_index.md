@@ -29,7 +29,14 @@ user_groups:
 - Visitors
 ---
 
-I research authoritarianism and quantitative methods, particularly the relationship between protests, elections, and decentralization.  
-I aim to use modern computational science methods to represent the complexity of the social world under authoritarianism, while still
-generating generalizable and communicable results.
+My research uses computational social science techniques to investigate the complexity of 
+protest and electoral behavior under authoritarianiasm, particularly in post-Soviet 
+Eurasia. My disseration uses Bayesian semi-parametrics, neural networks, spatial models, 
+and images as data to examine the challenges of authoritarian urban governance, the 
+use of images as a visual language of mobilization across different social movements, 
+and the relationship between decentralization and patterns of protest.
+
+Additionally, I am working on projects on the relationship between protest and opposition voting under 
+authoritarianism, characterizing the online networks of Russian alternative media readers, 
+and the Russian state's use of disinformation on social media. 
 
