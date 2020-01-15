@@ -58,7 +58,8 @@ date_format = "Jan 2006"
   location = "Chapel Hill, NC"
   date_start = "2019-07-15"
   date_end = ""
-  description = """Provide technical support to users of UNC's HPC clusters and other research computing resources."""
+  description = """Provide technical support to users of UNC's HPC clusters and other research computing resources and 
+  teach classes on the use of research computing resources."""
   
 
 +++
