@@ -21,7 +21,7 @@ name: Sean Norton
 organizations:
 - name: University of North Carolina at Chapel Hill
   url: ""
-role: PhD Student
+role: PhD Candidate
 
 superuser: true
 user_groups:
