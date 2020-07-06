@@ -46,11 +46,5 @@ url_poster = ""
 
 *(with Kaitlin Alper)*
 
-The history of European democratization is one of centralization, both of the state itself
-and the groups that contest it. As Europe centralized and democratized, practicioners of contentious politics 
-increasingly unified into national organizations using homogenous tactics making claims on national governments.
-However, in recent years developed democracies have notably decentralized. Using automatically generated event 
-data and a Bayesian spatial model, we aim to determine whether protest dynamics have responded 
-to this wave of decentralization. Specifically, we investigate whether changes in regional authority leads regional
-rather than national factors to drive regional protest rates in most developed democracies from 2000-2018.
+An extensive literature in sociology and political science has established that the development of the modern, centralized nation-state and the nationalization of contentious politics are inextricably linked. However, while the relationship between centralization and contention is well-theorized and documented, comparatively little work exists on the relationship between contention and decentralization. Leveraging insights from the literature on multilevel governance, community formation, and political behavior, we argue that decentralization of the state changes the structure and quantity of protest through three mechanisms. First, decentralization implies a multiplication of political access points made up of relatively weaker political actors; thus creating more arenas for contention where the chances for success are higher. Secondly, decentralization implies a reduction in scale of relevant communities. This should not only shift the nucleus of political and economic power more towards the regional level, but also increase the importance of more localized social networks to mobilization.  As a function of geography, these networks should be denser in the weak ties essential for political mobilization. Finally, these dynamics should be self-reinforcing over time as contention, regionalization, and social networks interact. We test our hypotheses using a novel data set that merges the Regional Authority Index, automated event counts, and regional socio-economic controls in 11 developed democracies from 2000-2019.
 

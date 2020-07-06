@@ -9,12 +9,11 @@ education:
     year: 2018
   - course: BA in Political Science & Russian Studies
     institution: The University of North Carolina at Greensboro
-    year: 2012
+    year: 2016
 email: ""
 interests:
 - Electoral authoritarianism
 - Contentious politics
-- Electoral opposition to authoritarianism
 - Machine learning
 - Bayesian statistics
 name: Sean Norton
@@ -29,14 +28,13 @@ user_groups:
 - Visitors
 ---
 
-My research uses computational social science techniques to investigate the complexity of 
-protest and electoral behavior under authoritarianiasm, particularly in post-Soviet 
-Eurasia. My disseration uses Bayesian semi-parametrics, neural networks, spatial models, 
-and images as data to examine the challenges of authoritarian urban governance, the 
-use of images as a visual language of mobilization across different social movements, 
-and the relationship between decentralization and patterns of protest.
+My research uses computational social science techniques to investigate complex phenomena, with 
+a particular focus on authoritarian states. My disseration uses Bayesian semi-parametrics, neural networks, time series models, 
+images as data, and survey experiments to examine the challenges of authoritarian urban governance, 
+the relationship between changes in state decentralization and patterns of protest,
+and authoritarian manipulation of social media.
 
 Additionally, I am working on projects on the relationship between protest and opposition voting under 
-authoritarianism, characterizing the online networks of Russian alternative media readers, 
-and the Russian state's use of disinformation on social media. 
+authoritarianism and characterizing the online networks of Russian alternative media readers.
+
 
