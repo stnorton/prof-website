@@ -18,25 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Advanced Proficiency"
+  description = "Advanced proficiency"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Pandas and scikit-learn"
+  description = "Advanced proficiency"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Familiar with All Basic Methods"  
+  description = "Familiar with all core algorithms"  
   
 [[feature]]
   icon = "infinity"
   icon_pack = "fas"
   name = "Bayesian Statistics"
-  description = "Focus on Bayesian Semi-Parametrics"
+  description = "Focus on bayesian semi-parametrics"
 
 [[feature]]
   icon = "git"
