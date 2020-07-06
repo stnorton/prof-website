@@ -1,6 +1,6 @@
 +++
-title = "Socsci Gensim"
-subtitle = ""
+title = "Using Gensim for Social Science"
+subtitle = "Extracting Most Relevant Documents and Topic Assignments"
 
 # Add a summary to display on homepage (optional).
 summary = ""
