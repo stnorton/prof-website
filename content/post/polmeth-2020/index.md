@@ -91,7 +91,7 @@ in Ukraine.” ~ 12% of total tweets.
 the regime, and general nationalist dreck. e.g. "Don’t get it confused: the government is the government, but the state is each
 of us!"; ~ 8% of total tweets. If you check the graph in the middle panel of the poster for this topic, you'll 
 notice a large peak in prevelance around the 70th anniversary of the Soviet victory in WW2, an important event for the regime.
-3. *"Peronal" Opinions*: (Emphasis on the air-qoutes around personal!) General personal commentary on current events. 
+3. *"Personal" Opinions*: (Emphasis on the air-qoutes around personal!) General personal commentary on current events. 
 While the Pushing the News topic is commentary on current events as well, this tended to not be comments on articles
 or particularly retweet heavy. I think of it as the IRA users playing the role of a politically-engaged citizen. 
 ~ 6% of total tweets. e.g. "What do you think would happen? Ukraine would just ride off into the sunset?"
