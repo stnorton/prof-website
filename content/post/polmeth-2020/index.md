@@ -125,13 +125,15 @@ the surge of support for the regime, rather than create it or control it (both o
 impossible tasks in the decentralized world of social media).
 
 The results raise an interesting substantive question that I've been grappling with for some time: 
-do distraction or engagement have differential effects? Even if (like me) you spend far too much time 
+do distraction and engagement actually have differential effects? Even if (like me) you spend far too much time 
 on Twitter, you still have limited time. If the IRA engaging in certain topics boosted their 
 visibility on Twitter, users were inevitably distracted from other content. 
 
 Future work on this project aims to untangle exactly that question by looking at the *effect* 
-of these tweets, particularly on emotional engagement. A separate project will also look at the 
-use of images in the dataset - something I think it is very important to explore. Working with 
+of these tweets, particularly on emotional engagement. Distraction should simply distract,
+whereas participation should distract *and* have some effect on attitudes/affect.
+
+A separate project will also look at the  use of images in the dataset - something I think it is very important to explore. Working with 
 images is much more difficult than working with text, but modern social media is a very 
 visual phenomenon. If we keep ignoring image data, we're discarding tons of potentially 
 useful information.
