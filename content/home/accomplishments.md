@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "UNC"
+  organization_url = ""
+  title = "Harold J. Glass USAF Graduate Fellow"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-01"
+  date_end = "2021-08-01"
+  description = "Tuition, fees, and stipend for academic year and summer"
+
+[[item]]
   organization = "Harriman Institute (Columbia University)"
   organization_url = ""
   title = "EACES-HSE Conference Travel Grant"

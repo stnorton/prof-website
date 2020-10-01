@@ -1,5 +1,6 @@
 +++
-title = "Who Do You Think You're Fooling?"
+title = "Rally Around the Tweet"
+subtitle = "The Internal Russian Disinformation Campaign"
 date = 2019-07-05
 draft = false
 
