@@ -12,10 +12,13 @@ education:
     year: 2016
 email: ""
 interests:
-- Electoral authoritarianism
+- Authoritarian regimes
 - Contentious politics
-- Machine learning
+- Russian politics
+- Computational propaganda
 - Bayesian statistics
+- Computational social science
+
 name: Sean Norton
 organizations:
 - name: University of North Carolina at Chapel Hill
@@ -28,13 +31,8 @@ user_groups:
 - Visitors
 ---
 
-My research uses computational social science techniques to investigate complex phenomena, with 
-a particular focus on authoritarian states. My disseration uses Bayesian semi-parametrics, neural networks, time series models, 
-images as data, and survey experiments to examine the challenges of authoritarian urban governance, 
-the relationship between changes in state decentralization and patterns of protest,
-and authoritarian manipulation of social media.
+I use computational social science to examine the phenomena that emerge when complex social processes and networks interact with the state, with a particular focus on authoritarian regimes. My dissertation includes papers on how authoritarians try and fail to pacify their large cities, the relationship between state decentralization and patterns of protest, and the Russian state's attempt to control Twitter conversations surrounding the Crimean crisis. Methodologically, I use Bayesian semi-parametric models, natural language processing techniques, and time series models. I am passionate about not only keeping up with the latest advances in machine learning and Bayesian modeling, but teaching these techniques to graduate and undergraduate students. 
 
-Additionally, I am working on projects on the relationship between protest and opposition voting under 
-authoritarianism and characterizing the online networks of Russian alternative media readers.
+I am on the academic job market for Fall 2021, but I would be happy to hear about any and all opportunities that allow me to leverage my research skills!
 
 
