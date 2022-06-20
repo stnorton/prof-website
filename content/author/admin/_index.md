@@ -1,9 +1,12 @@
 ---
 authors:
 - admin
-bio: Comparative Politics PhD student at UNC-Chapel Hill. 
+bio: 
 education:
   courses:
+  - course: PhD in Political Science (Comparative Politics and Quantitative Methods)
+    institution: The University of North Carolina at Chapel Hill
+    year: 2022
   - course: MA in Political Science (Comparative Politics)
     institution: The University of North Carolina at Chapel Hill
     year: 2018
@@ -21,9 +24,9 @@ interests:
 
 name: Sean Norton
 organizations:
-- name: University of North Carolina at Chapel Hill
+- name: Princeton University
   url: ""
-role: PhD Candidate
+role: Postdoctoral Research Associate
 
 superuser: true
 user_groups:
