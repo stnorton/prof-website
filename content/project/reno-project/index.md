@@ -22,7 +22,7 @@ slides = ""
 external_link = ""
 
 # Links (optional).
-url_pdf = "https://www.seantnorton.net/files/norton_moshouse_ajps.pdf"
+url_pdf = "https://www.seantnorton.net/files/norton_ajps_sub.pdf"
 url_code = ""
 url_dataset = ""
 url_slides = ""
